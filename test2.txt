@@ -1,6 +1,4 @@
 ajout de texte
-
 dans mon
-
-
 fichier
+encore du texte
